@@ -10,6 +10,12 @@ This project develops an Information Security Plan (ISP) aligned with business o
 - Departmental roles and responsibilities
 - Security roadmap and implementation
 
+## Key Components
+- Core policy set (IAM, Incident Response, BC/DR, Vendor Security, etc.)
+- Governance structure and departmental responsibilities
+- 0–30, 31–90, and 91–180 day implementation roadmap
+- Risk-based prioritization of security initiatives
+
 ## Artifact
 - Information Security Plan Presentation (PDF)
 
